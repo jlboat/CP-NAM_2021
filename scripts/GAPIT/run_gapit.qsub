@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -N gapit_nam_comp
+#PBS -l select=1:ncpus=8:mem=60gb:interconnect=fdr,walltime=70:00:00
+#PBS -j oe
+
+cd $PBS_O_WORKDIR
+
+module add anaconda3/5.1.0-gcc/8.3.1
+source activate assoc
+
+Rscript gapit.R
