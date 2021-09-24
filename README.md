@@ -2,17 +2,17 @@
 Dissecting the Genetic Architecture of Carbon Partitioning in Sorghum using Multiscale Phenotypes
 
 ## Data
-├── AgronomicBLUPs.xlsx
-├── CompositionalBLUPs.xlsx
-└── NAM_2020_Compositional_Data.xlsx
+├── AgronomicBLUPs.xlsx<br/>
+├── CompositionalBLUPs.xlsx<br/>
+└── NAM_2020_Compositional_Data.xlsx<br/>
 
 ## Scripts
-├── GAPIT
-├── GEMMA
-├── mashr
-├── QTL
-│   ├── agronomic
-│   └── compositional
+├── GAPIT<br/>
+├── GEMMA<br/>
+├── mashr<br/>
+├── QTL<br/>
+│   ├── agronomic<br/>
+│   └── compositional<br/>
 └── Traits
 
 ## Accompanying manuscript:
